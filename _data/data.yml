@@ -99,7 +99,7 @@ certifications:
     credentialname:
     details: |
       
-   - name: Small Unmanned Aircraft System Remote Pilot
+  - name: Small Unmanned Aircraft System Remote Pilot
     start: 2025
     end: 2028
     organization: IACRA
@@ -108,7 +108,7 @@ certifications:
     credentialname:
     details: |
       
-   - name: Lean+Six Sigma Green Belt
+  - name: Lean+Six Sigma Green Belt
     start: 2025
     end: 2028
     organization: IISE
@@ -118,15 +118,15 @@ certifications:
     details: |
       
 
-#recommendations:
-#  title: Recommendations
-#  list:
-#  - person: Yareli Perez
-#    email: perezyareli@example.com
-#    phone: 012 345 6789
-#    role: General Director at example.com
-#    recommendation: |
-#      Alan Doe is a super employee!
+recommendations:
+  title: Recommendations
+  list:
+  - person: Yareli Perez
+    email: perezyareli@example.com
+    phone: 012 345 6789
+    role: General Director at example.com
+    recommendation: |
+      Alan Doe is a super employee!
       
 skills:
   title: Skills &amp; Proficiency
