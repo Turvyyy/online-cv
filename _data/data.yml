@@ -60,10 +60,10 @@ education:
   - degree: B.S. in Industrial and Systems Engineering
     university: J.B. Speed School at the University of Louisville
     time: 2021 - 2025
-    #details: |
+    details: |
 
 
-experiences:
+#experiences:
   title: Experiences
   info:
   - role: Process Engineer Coop
