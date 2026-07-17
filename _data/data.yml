@@ -37,15 +37,15 @@ sidebar:
   interests:
     title: Interests
     info:
-    - item: Climbing
+    - item: Hobby Electronics
       link:
 
 
-    - item: Snowboarding
+    - item: Controller and console modding
       link:
 
 
-    - item: Cooking
+    - item: Rhythm and fighting games
       link:
 
 
@@ -56,43 +56,71 @@ career-profile:
 education:
   title: Education
   info:
-  - degree: Bachelors in Industrial and Systems Engineering
+  - degree: B.S. in Industrial and Systems Engineering
     university: J.B. Speed School at the University of Louisville
     time: 2021 - 2025
-    details: |
-      text
+    #details: |
+    #  text
 
 experiences:
   title: Experiences
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Process Engineer Coop
+    time: 2025
+    company: Fenco Solutions
     details: |
-      text
+      Standard work instructions, Time study, Flow analysis, Bottleneck analysis, Fishbone diagram.
+   - role: Engineering Coop
+    time: 2024
+    company: Air Equipment Company
+    details: |
+      Excel automation, Enterprice resource management tools, Variable frequency drive install + troubleshoot, HVAC devices and controls.
+   - role: Technology Team Coop
+    time: 2023
+    company: CMTA
+    details: |
+      Data and security devices, Revit floor plans + building models, Excel, Vizio.
 
 certifications:
   title: Certifications
   list:
-  - name: CV Builder
+  - name: Engineer in Training
+    start: 2026
+    end:
+    organization: KY State Board of Licensure for Professional Engineers and Land Surveyors
+    credentialid: 17140
+    credentialurl:
+    credentialname:
+    details: |
+      
+   - name: Small Unmanned Aircraft System Remote Pilot
     start: 2025
     end: 2028
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.google.com
-    credentialname: Google
+    organization: IACRA
+    credentialid: Pending (Temporary Certificate)
+    credentialurl:
+    credentialname:
     details: |
-      text
+      
+   - name: Lean+Six Sigma Green Belt
+    start: 2025
+    end: 2028
+    organization: IISE
+    credentialid: 138016612
+    credentialurl:
+    credentialname:
+    details: |
+      
 
-recommendations:
-  title: Recommendations
-  list:
-  - person: Yareli Perez
-    email: perezyareli@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      Alan Doe is a super employee!
+#recommendations:
+#  title: Recommendations
+#  list:
+#  - person: Yareli Perez
+#    email: perezyareli@example.com
+#    phone: 012 345 6789
+#    role: General Director at example.com
+#    recommendation: |
+#      Alan Doe is a super employee!
       
 skills:
   title: Skills &amp; Proficiency
