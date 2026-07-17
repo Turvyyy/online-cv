@@ -64,8 +64,8 @@ education:
 
 
 experiences:
-  title: asdf
-  info:
+  title: Experiences
+  list:
   - role: Process Engineer Coop
     time: 2025
     company: Fenco Solutions
