@@ -63,7 +63,7 @@ education:
     details: |
       text
 
-#experiences:
+experiences:
   title: Experiences
   info:
   - role: Process Engineer Coop
