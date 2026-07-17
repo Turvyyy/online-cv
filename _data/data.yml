@@ -65,7 +65,7 @@ education:
 
 experiences:
   title: Experiences
-  list:
+  info:
   - role: Process Engineer Coop
     time: 2025
     company: Fenco Solutions
@@ -92,7 +92,6 @@ certifications:
   list:
   - name: Engineer in Training
     start: 2026
-    end:
     organization: KY State Board of Licensure for Professional Engineers and Land Surveyors
     credentialid: 17140
     credentialurl:
