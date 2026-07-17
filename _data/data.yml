@@ -64,7 +64,7 @@ education:
 
 
 experiences:
-  title: Experiences
+  #title: Experiences
   info:
   - role: Process Engineer Coop
     time: 2025
