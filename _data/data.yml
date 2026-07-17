@@ -61,12 +61,12 @@ education:
     university: J.B. Speed School at the University of Louisville
     time: 2021 - 2025
     details: |
-      text
+      
 
 experiences:
   title: Experiences
-  list:
-  - name: Process Engineer Coop
+  info:
+  - role: Process Engineer Coop
     time: 2025
     company: Fenco Solutions
     details: |
@@ -117,22 +117,22 @@ certifications:
     details: |
       
 
-recommendations:
-  title: Recommendations
-  list:
-  - person: Yareli Perez
-    email: perezyareli@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      Alan Doe is a super employee!
+#recommendations:
+#  title: Recommendations
+#  list:
+#  - person: Yareli Perez
+#    email: perezyareli@example.com
+#    phone: 012 345 6789
+#    role: General Director at example.com
+#    recommendation: |
+#      Alan Doe is a super employee!
       
-skills:
-  title: Skills &amp; Proficiency
+#skills:
+#  title: Skills &amp; Proficiency
 
-  toolset:
-  - name: Python & Django
-    level: 98%
+#  toolset:
+#  - name: Python & Django
+#    level: 98%
 
 footer: 
   
