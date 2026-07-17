@@ -52,6 +52,7 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
+
     
 education:
   title: Education
@@ -61,6 +62,7 @@ education:
     time: 2021 - 2025
     details: |
 
+
 experiences:
   title: Experiences
   info:
@@ -69,18 +71,21 @@ experiences:
     company: Fenco Solutions
     details: |
       Standard work instructions, Time study, Flow analysis, Bottleneck analysis, Fishbone diagram.
+
       
    - role: Engineering Coop
-    time: 2024
-    company: Air Equipment Company
-    details: |
+     time: 2024
+     company: Air Equipment Company
+     details: |
       Excel automation, Enterprice resource management tools, Variable frequency drive install + troubleshoot, HVAC devices and controls.
+
       
    - role: Technology Team Coop
-    time: 2023
-    company: CMTA
-    details: |
+     time: 2023
+     company: CMTA
+     details: |
       Data and security devices, Revit floor plans + building models, Excel, Vizio.
+
 
 certifications:
   title: Certifications
